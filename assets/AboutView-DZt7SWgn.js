@@ -1,0 +1,1 @@
+import{_ as a,c as t,a as s,b as o,o as c}from"./index-2CsnTQ01.js";const r={},n={class:"about"};function _(i,e){return c(),t("div",n,e[0]||(e[0]=[s("h1",null,"This is an about page",-1),s("div",{class:"imgs"},[s("img",{src:o,alt:""})],-1)]))}const l=a(r,[["render",_],["__scopeId","data-v-c2c5e9e8"]]);export{l as default};
